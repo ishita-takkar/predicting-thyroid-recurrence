@@ -35,7 +35,6 @@ Our hypothesis was that more severe disease — indicated by advanced staging or
 
 - **Techniques:**
   - SMOTE for class balancing (recurrence is rare)
-  - GridSearchCV for hyperparameter tuning
   - Train-test split (80-20) with fixed random seed
   - ROC-AUC, Precision, Recall as key evaluation metrics
 
